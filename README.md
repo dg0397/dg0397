@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Dionisio 👋 👨🏽‍💻 
 
+```javascript
+const dg0397 = {
+  pronouns: "he" | "his",
+  tecnologies: 'Web',
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  passion: ['New Technologies','Web development']
+}
+```
 <!--
 **dg0397/dg0397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
