@@ -2,10 +2,10 @@
 
 ```javascript
 const dg0397 = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   tecnologies: 'Web',
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Redux, Node, Deno, Storybook, Styled-Components, Jest, Docker, NextJS],
   passion: ['New Technologies','Web development']
 }
 ```
